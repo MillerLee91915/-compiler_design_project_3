@@ -1,4 +1,4 @@
-# Compiler Design Project 2
+# Compiler Design Project 
 
 # Description
 
@@ -14,7 +14,7 @@ In this project, you should implement a simple C interpreter. The supported inpu
 
 1. Make sure your JDK and ANTLR downloaded
 2. Download the file from 
-    https://github.com/MillerLee91915/compiler_design_project_3
+    https://github.com/MillerLee91915/-compiler_design_project_3
 3. use makefile to compile and execute 
 
 after execution, you will execute sample code
